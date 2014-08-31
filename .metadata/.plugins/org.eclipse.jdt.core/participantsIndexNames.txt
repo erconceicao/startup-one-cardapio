@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+C:\JAVA\Workspace\Startup-One\Cardapio\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3003921982.index
+\Startup-One-Cardapio\src
+C:\JAVA\Workspace\Startup-One\Cardapio\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1189176085.index
+\Startup-One-Cardapio\src
+C:\JAVA\Workspace\Startup-One\Cardapio\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3399667335.index
+\Startup-One-Cardapio\src
